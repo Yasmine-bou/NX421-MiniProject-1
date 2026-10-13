@@ -1,0 +1,33 @@
+# Large/subject neuroimaging datasets and generated results
+/data/*
+!/data/README.md
+/outputs/*
+!/outputs/README.md
+*.nii
+*.nii.gz
+*.mgz
+*.mgh
+*.nrrd
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Local and sensitive configuration
+config/paths.local.yaml
+.env
+.env.*
+
+# Jupyter, Python, environment
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.vscode/
+.idea/

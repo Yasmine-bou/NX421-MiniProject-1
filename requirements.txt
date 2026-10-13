@@ -1,0 +1,10 @@
+# Starter dependencies; check compatibility with the EPFL Neurodesk environment
+numpy
+pandas
+matplotlib
+nibabel
+nilearn
+scipy
+scikit-learn
+jupyterlab
+PyYAML

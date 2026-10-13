@@ -1,0 +1,5 @@
+# EXAMPLE ONLY - adapt locally, do not commit absolute personal VM paths.
+raw_data_dir: data/raw
+intermediate_dir: outputs/intermediate
+figures_dir: outputs/figures
+mni_template: null  # Path or resource name after verifying Neurodesk installation
